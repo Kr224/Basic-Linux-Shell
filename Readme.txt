@@ -1,5 +1,3 @@
-## CSCI3120 A-2: Shell Program
-
 ### Description
 This program is a simple shell for Linux, implemented in C. It accepts user commands, executes each command using a separate process, and provides a history feature that allows users to access recently-entered commands.
 
@@ -70,5 +68,4 @@ CSCI3120> exit
 
 ### Author
 - Karishni Gupta
-- B00906019
 ```
